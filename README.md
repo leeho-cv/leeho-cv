@@ -1,5 +1,5 @@
-- 👋 你好，我是李皓
-- 👀 本账号仅用于搭建个人主页，我的主账号请搜索Leehouc
-- 📫 联系方式：leehouc@163.com
-- 🌍 中国
+- 👋 您好，我是李皓
+- 👀 本账号仅用于搭建个人主页
+- 🌍 我的主账号请搜索Leehouc，链接为https://github.com/Leehouc
+- 📫 联系方式：leehouc@163.com，leehouc@outlook.com
 - ⚡ 我的个人主页请关注https://leeho-cv.github.io/
